@@ -1,3 +1,3 @@
-my_age= 16
-my_string= "Patricia"
-my_boolean= true
+my_age = 16
+my_string = "Patricia"
+my_boolean = true
